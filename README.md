@@ -32,7 +32,8 @@ square_root()
 ```
 
 ## Output:
-![](sqrt.png)
+![sqrt](https://github.com/keerthanaguttha/Square-root-of-a-number/assets/145742927/41ed5284-fc63-4673-9c94-6ca83b135f91)
+
 
 
 ## Result:
